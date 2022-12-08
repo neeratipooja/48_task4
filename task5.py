@@ -2,7 +2,7 @@
 DAY:thursday
 DATE:8th dec 2022
 TOPIC:task
-AUTHOR:kiranmai
+AUTHOR:pooja
 """
 #not to display continue
 n=0
